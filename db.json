@@ -1,0 +1,96 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "FirstName": "Zahid",
+      "LastName": "Sermon",
+      "Email": "zahid@gmail.com",
+      "MobileNumber": "+8801711111111",
+      "AddressID": 1
+    },
+    {
+      "id": 2,
+      "FirstName": "Abrar",
+      "LastName": "Nabid",
+      "Email": "zahid@gmail.com",
+      "MobileNumber": "+8801711111112",
+      "AddressID": 2
+    },
+    {
+      "id": 3,
+      "FirstName": "Abrar",
+      "LastName": "Hossain",
+      "Email": "abrar@gmail.com",
+      "MobileNumber": "+8801711111113",
+      "AddressID": 3
+    },
+    {
+      "id": 4,
+      "FirstName": "Ashik",
+      "LastName": "Hasan",
+      "Email": "ashik@gmail.com",
+      "MobileNumber": "+8801711111114",
+      "AddressID": 4
+    },
+    {
+      "id": 5,
+      "FirstName": "Hasin",
+      "LastName": "Abrar",
+      "Email": "hasin@gmail.com",
+      "MobileNumber": "+8801711111115",
+      "AddressID": 5
+    },
+    {
+      "id": 6,
+      "FirstName": "Asif",
+      "LastName": "Iqbal",
+      "Email": "asif@gmail.com",
+      "MobileNumber": "+8801711111116",
+      "AddressID": 6
+    }
+  ],
+  "address": [
+    {
+      "id": 1,
+      "HouseNo": "11/A",
+      "Road": "Abdul Hamid Road",
+      "Village": "Foy's Lake",
+      "PostalCode": "8231"
+    },
+    {
+      "id": 2,
+      "HouseNo": "12/B",
+      "Road": "Abdul Hamid Road",
+      "Village": "Foy's Lake",
+      "PostalCode": "8231"
+    },
+    {
+      "id": 3,
+      "HouseNo": "13/C",
+      "Road": "Abdul Hamid Road",
+      "Village": "Foy's Lake",
+      "PostalCode": "8231"
+    },
+    {
+      "id": 4,
+      "HouseNo": "14/A",
+      "Road": "Abdul Hamid Road",
+      "Village": "Foy's Lake",
+      "PostalCode": "8231"
+    },
+    {
+      "id": 5,
+      "HouseNo": "15/B",
+      "Road": "Abdul Hamid Road",
+      "Village": "Foy's Lake",
+      "PostalCode": "8231"
+    },
+    {
+      "id": 6,
+      "HouseNo": "16/C",
+      "Road": "Abdul Hamid Road",
+      "Village": "Foy's Lake",
+      "PostalCode": "8231"
+    }
+  ]
+}
